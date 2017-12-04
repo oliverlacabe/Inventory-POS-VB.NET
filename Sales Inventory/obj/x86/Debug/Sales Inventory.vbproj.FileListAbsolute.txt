@@ -1,0 +1,35 @@
+C:\Users\user\AppData\Local\Temporary Projects\Sales Inventory\bin\Debug\Sales Inventory.exe
+C:\Users\user\AppData\Local\Temporary Projects\Sales Inventory\bin\Debug\Sales Inventory.pdb
+C:\Users\user\AppData\Local\Temporary Projects\Sales Inventory\bin\Debug\Sales Inventory.xml
+C:\Users\user\AppData\Local\Temporary Projects\Sales Inventory\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\AppData\Local\Temporary Projects\Sales Inventory\obj\x86\Debug\Sales_Inventory.frmLogin.resources
+C:\Users\user\AppData\Local\Temporary Projects\Sales Inventory\obj\x86\Debug\Sales_Inventory.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\Sales Inventory\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\AppData\Local\Temporary Projects\Sales Inventory\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\AppData\Local\Temporary Projects\Sales Inventory\obj\x86\Debug\Sales Inventory.exe
+C:\Users\user\AppData\Local\Temporary Projects\Sales Inventory\obj\x86\Debug\Sales Inventory.xml
+C:\Users\user\AppData\Local\Temporary Projects\Sales Inventory\obj\x86\Debug\Sales Inventory.pdb
+C:\Users\user\Downloads\Desktop\Sales Inventory\Sales Inventory\bin\Debug\Sales Inventory.exe
+C:\Users\user\Downloads\Desktop\Sales Inventory\Sales Inventory\bin\Debug\Sales Inventory.pdb
+C:\Users\user\Downloads\Desktop\Sales Inventory\Sales Inventory\bin\Debug\Sales Inventory.xml
+C:\Users\user\Downloads\Desktop\Sales Inventory\Sales Inventory\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Downloads\Desktop\Sales Inventory\Sales Inventory\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\user\Downloads\Desktop\Sales Inventory\Sales Inventory\obj\x86\Debug\Sales Inventory.vbproj.ResolveComReference.cache
+C:\Users\user\Downloads\Desktop\Sales Inventory\Sales Inventory\obj\x86\Debug\Sales_Inventory.frmAddCategory.resources
+C:\Users\user\Downloads\Desktop\Sales Inventory\Sales Inventory\obj\x86\Debug\Sales_Inventory.frmAdmin.resources
+C:\Users\user\Downloads\Desktop\Sales Inventory\Sales Inventory\obj\x86\Debug\Sales_Inventory.frmCashier.resources
+C:\Users\user\Downloads\Desktop\Sales Inventory\Sales Inventory\obj\x86\Debug\Sales_Inventory.frmQuantity.resources
+C:\Users\user\Downloads\Desktop\Sales Inventory\Sales Inventory\obj\x86\Debug\Sales_Inventory.frmPurchase.resources
+C:\Users\user\Downloads\Desktop\Sales Inventory\Sales Inventory\obj\x86\Debug\Sales_Inventory.frmStart.resources
+C:\Users\user\Downloads\Desktop\Sales Inventory\Sales Inventory\obj\x86\Debug\Sales_Inventory.frmLogin.resources
+C:\Users\user\Downloads\Desktop\Sales Inventory\Sales Inventory\obj\x86\Debug\Sales_Inventory.Resources.resources
+C:\Users\user\Downloads\Desktop\Sales Inventory\Sales Inventory\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Downloads\Desktop\Sales Inventory\Sales Inventory\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Downloads\Desktop\Sales Inventory\Sales Inventory\obj\x86\Debug\Sales Inventory.exe
+C:\Users\user\Downloads\Desktop\Sales Inventory\Sales Inventory\obj\x86\Debug\Sales Inventory.xml
+C:\Users\user\Downloads\Desktop\Sales Inventory\Sales Inventory\obj\x86\Debug\Sales Inventory.pdb
+C:\Users\user\Downloads\Desktop\Sales Inventory\Sales Inventory\bin\Debug\Sales Inventory.exe.manifest
+C:\Users\user\Downloads\Desktop\Sales Inventory\Sales Inventory\bin\Debug\Sales Inventory.application
+C:\Users\user\Downloads\Desktop\Sales Inventory\Sales Inventory\obj\x86\Debug\Sales Inventory.exe.manifest
+C:\Users\user\Downloads\Desktop\Sales Inventory\Sales Inventory\obj\x86\Debug\Sales Inventory.application
+C:\Users\user\Downloads\Desktop\Sales Inventory\Sales Inventory\obj\x86\Debug\Sales_Inventory.frmdeliveries.resources
